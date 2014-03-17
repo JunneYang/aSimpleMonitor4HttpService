@@ -18,7 +18,7 @@ simpleMonitor4pbrpcService,this monitor mainly related to use of the python modu
 ![image](screenshot/method_of_script_running.png)
 
 ### Screenshots:    
-**1.algorithm of the monitor:**    
+**algorithm of the monitor:**    
 ![image](screenshot/algorithm_of_monitor.png)    
 
 ### Kindly Reminder:
