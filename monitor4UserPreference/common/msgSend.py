@@ -6,7 +6,7 @@ from logLib import *
 def msgSend(phonenum_list,msg_content):
     for phonenum in phonenum_list:
         cmd = "gsmsend -s emp01.baidu.com:15003 "+phonenum+"@"+"\""+msg_content+"\""
-	print cmd
+        #print cmd
         Ret=call(cmd, shell=True)
         if(Ret != 0):
             logging.error("msgSend failed!")
