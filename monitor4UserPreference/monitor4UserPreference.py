@@ -6,7 +6,7 @@ from common.queryUserPreference import *
 import time
 TM_INTERVAL=60
 Exception_INTERVAL=3600
-phonenum_list=['18665817689','18665910949']
+phonenum_list=['18665817689','18665910949','18666662305','13632979619']
 msg_content="userPreference:getResponse failed"
 cnt=1
 
