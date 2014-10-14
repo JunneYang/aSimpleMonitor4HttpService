@@ -1,8 +1,8 @@
-simpleMonitor4pbrpcService
+simplemonitor4pbrpcservice
 ==========================    
 
 ### Introduction:
-simpleMonitor4pbrpcService,this monitor mainly related to use of the python module such as logging,subprocess,pbrpc and the algorithm of monitor.    
+simplemonitor4pbrpcservice,this monitor mainly related to use of the python module such as logging,subprocess,pbrpc and the algorithm of monitor.    
 
 ### Feature:
 * service monitoring supported.
